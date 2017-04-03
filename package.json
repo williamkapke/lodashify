@@ -1,0 +1,25 @@
+{
+  "name": "lodashify",
+  "version": "1.0.0",
+  "description": "Make your objects lodashify-ied!",
+  "main": "lodashify.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamkapke/lodashify.git"
+  },
+  "keywords": [
+    "lodash"
+  ],
+  "author": "William Kapke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamkapke/lodashify/issues"
+  },
+  "homepage": "https://github.com/williamkapke/lodashify#readme",
+  "peerDependencies": {
+    "lodash": ">=3"
+  }
+}
